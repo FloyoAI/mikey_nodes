@@ -5519,7 +5519,6 @@ NODE_CLASS_MAPPINGS = {
     'ImageOverlay': ImageOverlay,
     'CinematicLook': CinematicLook,
     'MosaicExpandImage': MosaicExpandImage,
-    'GetSubdirectories': GetSubdirectories,
     'TextPadderMikey': TextPadderMikey,
     'SD3TextConditioningWithOptionsOnePrompt': SD3TextConditioningWithOptionsOnePrompt,
     'ModelMergePixArtSigmaXL2_1024MS': ModelMergePixArtSigmaXL2_1024MS,
