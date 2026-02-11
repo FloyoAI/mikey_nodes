@@ -5594,8 +5594,7 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     'EvalFloats': 'Eval Floats (Mikey)',
     'ImageOverlay': 'Image Overlay (Mikey)',
     'CinematicLook': 'Cinematic Look (Mikey)',
-    'MosaicExpandImage': 'Mosaic Expand Image (Mikey)',
-    'GetSubdirectories': 'Get Subdirectories (Mikey)',
+    'MosaicExpandImage': 'Mosaic Expand Image (Mikey)'
     'TextPadderMikey': 'Text Padder (Mikey)',
     'SD3TextConditioningWithOptionsOnePrompt': 'SD3 Text Conditioning With Options. One Prompt (Mikey)',
     'ModelMergePixArtSigmaXL2_1024MS': 'Model Merge PixArtSigmaXL2_1024MS (Mikey)',
