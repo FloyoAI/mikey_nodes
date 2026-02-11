@@ -5594,7 +5594,7 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     'EvalFloats': 'Eval Floats (Mikey)',
     'ImageOverlay': 'Image Overlay (Mikey)',
     'CinematicLook': 'Cinematic Look (Mikey)',
-    'MosaicExpandImage': 'Mosaic Expand Image (Mikey)'
+    'MosaicExpandImage': 'Mosaic Expand Image (Mikey)',
     'TextPadderMikey': 'Text Padder (Mikey)',
     'SD3TextConditioningWithOptionsOnePrompt': 'SD3 Text Conditioning With Options. One Prompt (Mikey)',
     'ModelMergePixArtSigmaXL2_1024MS': 'Model Merge PixArtSigmaXL2_1024MS (Mikey)',
@@ -5602,3 +5602,4 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     'ModelMergeTrainDiffPixartSigmaXL2_1024MS': 'Train Diff PixArtSigmaXL2_1024MS (Mikey)',
     'CheckpointSaveModelOnly': 'Save Model Only (Mikey)',
 }
+
